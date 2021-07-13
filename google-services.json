@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034047132303",
+    "project_id": "dotchat-7b937",
+    "storage_bucket": "dotchat-7b937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034047132303:android:b9908095a25bb3287596fa",
+        "android_client_info": {
+          "package_name": "com.dotdot.dot_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034047132303-h0r7h7sel080pdl37l54cq7f1h9c2svu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJrb0ADPyqx7XiRJJtAUGp5J_C_BxfvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034047132303-h0r7h7sel080pdl37l54cq7f1h9c2svu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
